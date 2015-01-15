@@ -1,0 +1,57 @@
+body{
+	width: 901px;
+}
+h1.recipe_body{
+	font-size: 15px;
+}
+img.logo{
+  float: left;
+}
+.mainHeading{
+	text-align: left;
+}
+.date{
+	position: relative;
+	top: -15px;
+}
+.boxLink{
+	position: relative;
+	top: -60px;
+	float: left;
+	padding-left: 1px;
+}
+nav section{
+	float: right;
+}
+.line{
+	height: 10px;
+	background-color: #bbbbbb;
+}
+
+.ingredients{
+	background-image: url("../images/list-bg.png")
+}
+.copyright{
+	text-align: center;
+	background-color: blue;
+}
+.share{
+	text-transform: uppercase;
+	padding-top: 12px;
+	position: relative;
+	top: -50px;
+	text-align: center;
+	background-color: red;
+	width: 150px;
+	height: 30px;
+	float: right;
+	color: #bbbbbb
+}
+.mainParagraph br{
+	line-height: 2em;
+}
+.bio{
+	position: relative;
+	top: -15px;
+	font-size: 12px;
+}
